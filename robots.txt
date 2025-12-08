@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stirlinggee-crypto.github.io/sitemap.xml
